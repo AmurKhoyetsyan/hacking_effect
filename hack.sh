@@ -14,5 +14,5 @@ echo -e "\033[0;32m Hacking NASA 80% \033[0;32m";
 sleep 0.5s
 echo -e "\033[0;32m Hacking NASA 100% \033[0;32m";
 sleep 0.2s
-echo -e "\033[0;32m NASA Hacked Successfull \033[0;32m";
-read -p "Press any key to resume ..."
+echo -e "\033[0;32m NASA Hacked Successfull \033[0;32m \n";
+read -p " Press any key to resume ..."
